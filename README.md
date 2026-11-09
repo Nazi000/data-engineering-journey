@@ -1,6 +1,6 @@
 এখানে ছয় মাসের সব কাজ জমা হচ্ছে।
 
-I am a Software Engineer, I want to learn data engineering because i like to work with messi data
+I am a Software Engineer, I want to learn data engineering because i like to work with messy data
 
 ## এখন পর্যন্ত যা শিখেছি
 
